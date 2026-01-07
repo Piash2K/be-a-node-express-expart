@@ -103,8 +103,6 @@ Just open an issue or submit a pull request and let’s improve this learning re
 
 ---
 
-## 📄 License
 
-This project currently doesn’t specify a license. Consider adding an open-source license (e.g., MIT) so others can reuse and contribute confidently.
 
 
